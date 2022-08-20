@@ -1,0 +1,16 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Frankie Fuchsia', '58794786525', 4210.0, '1989-10-04T00:00:00Z', 2, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('George Green',    '80433994549', 6770.0, '1970-05-05T00:00:00Z', 3, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Grace Lime',      '83659490046', 8090.0, '1967-03-03T00:00:00Z', 1, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('James Olive',     '96850949804', 8340.0, '1985-01-24T00:00:00Z', 3, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Joseph Yellow',   '61815618853', 9980.0, '1986-01-22T00:00:00Z', 2, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Paul Navy',       '75269069961', 5080.0, '1994-09-07T00:00:00Z', 2, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Robert Blue',     '29528037267', 4180.0, '1961-12-16T00:00:00Z', 0, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Susan Teal',      '42482395439', 9270.0, '1982-08-04T00:00:00Z', 3, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Terry Aqua',      '30643059078', 9590.0, '1964-05-19T00:00:00Z', 3, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('John Black',      '67451159298', 6230.0, '2000-03-19T00:00:00Z', 2, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Mary Silver',     '96079435983', 7320.0, '1971-05-03T00:00:00Z', 0, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Michael Gray',    '38585503559', 1660.0, '1995-12-17T00:00:00Z', 0, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Julie White',     '71691678505', 3060.0, '1972-04-02T00:00:00Z', 1, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Charlie Maroon',  '15359648410', 1240.0, '1966-09-10T00:00:00Z', 3, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Donald Red',      '60986648314', 6710.0, '1963-11-30T00:00:00Z', 1, NOW(), NULL);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children, created_At, updated_At) VALUES ('Emily Purple',    '22043626383', 5880.0, '1990-04-08T00:00:00Z', 1, NOW(), NULL);
